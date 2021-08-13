@@ -1,0 +1,4 @@
+void plot() {
+
+  TFile *f = new TFile("higgsCombine_test_fit.MultiDimFit.mH125.123456.root");
+}
